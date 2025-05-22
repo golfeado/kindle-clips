@@ -1,0 +1,35 @@
+Common LISP: A Gentle Introduction to Symbolic Computation (Dover Books on Engineering) (David S. Touretzky)
+- Your Note on page 217 | Location 3326 | Added on Friday, September 29, 2023 2:00:29 PM
+
+Recursion en la vida real
+==========
+Ciudad, urbanización y urbanismo en el siglo XX venezolano (Venezuela siglo XX nº 3) (Spanish Edition) (Almandoz Marte, Arturo)
+- Your Highlight on page 40 | Location 542-546 | Added on Thursday, November 17, 2022 12:55:54 PM
+
+La Venezuela que ingresa al siglo XX, asolada durante gran parte de la centuria anterior...
+==========
+﻿Ciudad, urbanización y urbanismo en el siglo XX venezolano (Venezuela siglo XX nº 3) (Spanish Edition) (Almandoz Marte, Arturo)
+- Your Highlight on page 40 | Location 549-552 | Added on Thursday, November 17, 2022 12:57:43 PM
+
+Estaba integrada por cuatro regiones «verticales» (norte-sur), conectadas con el comercio internacional a través de sus puertos, pero escasamente comunicadas entre sí, incluso en su propio interior61
+==========
+﻿Ciudad, urbanización y urbanismo en el siglo XX venezolano (Venezuela siglo XX nº 3) (Spanish Edition) (Almandoz Marte, Arturo)
+- Your Highlight on page 40 | Location 552-552 | Added on Thursday, November 17, 2022 12:58:01 PM
+
+Maracaibo,
+==========
+Common LISP: A Gentle Introduction to Symbolic Computation (Dover Books on Engineering) (David S. Touretzky)
+- Your Note on page 217 | Location 3326 | Added on Friday, September 29, 2023 2:00:29 PM
+
+Recursion en la vida real
+==========
+Python (Python Documentation Authors)
+- Your Highlight on page 4070 | Location 62397 | Added on Friday, May 10, 2024 6:45:50 PM
+
+To use formatted string literals, begin a string with f or F before the opening quotation mark or triple
+==========
+Common LISP: A Gentle Introduction to Symbolic Computation (Dover Books on Engineering) (David S. Touretzky)
+- Your Note on page 217 | Location 3326 | Added on Friday, September 29, 2023 2:00:29 PM
+
+Recursion en la vida real
+==========
