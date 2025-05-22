@@ -372,7 +372,7 @@ parser.add_argument('-o', '--output', metavar='FILE', type=str,
 parser.add_argument('-f', '--format', type=str, choices=['text', 'org', 'json'],
                     default='text', help="""Define the format of the
                     output. Could be 'text', 'org' or 'json'. Defaults
-                    to 'text'. ONLY TEXT IS CURRENTLY SUPPORTED.""")
+                    to 'text'.""")
 
 types_of_clip = parser.add_argument_group('types of clips', '''This
 options define which types of clips will be extracted. If no option is

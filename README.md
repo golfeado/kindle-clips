@@ -37,7 +37,7 @@ options:
   -f {text,org,json}, --format {text,org,json}
                         Define the format of the output. Could be
                         'text', 'org' or 'json'. Defaults to
-                        'text'. ONLY TEXT IS CURRENTLY SUPPORTED.
+                        'text'.
   -q, --quiet           Dont't print any message. Even error
                         ones.
 
