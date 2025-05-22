@@ -14,9 +14,14 @@ USB.
 
 Use your Kindle 'My Clippings.txt' file as input.
 
+```$ python3 kindle_clips.py 'My Clippings.txt``` is the most standard use.
+
+```$ python3 kindle_clips.py -qf json 'My Clippings.txt' -o output_file.json```
+will remove any execution message and format the clips in a JSON named
+'output_file.json.
+
 CARE! Using the `-o FILE` or `--output FILE` option will overwrite the given
-FILE, without confirmation. This should change in the short term as is not
-forgiving to user mistakes.
+FILE, without confirmation.
 
 ```
 usage: kindle-clips [-h] [-o FILE] [-f {text,org,json}] [-H] [-n]
