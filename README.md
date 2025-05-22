@@ -55,9 +55,9 @@ More info at https://github.com/golfeado/kindle-clips
 
 ## Testing
 
-I have made some tests at unit and integration level. But some its lacking some
-e2e testing.
+I have made some tests at unit and integration level. But its lacking some e2e
+testing.
 
-To run tests install the 'pytest' library in the usend VENV and use `$ pytest
-test\_kindle\_clips.py`. Using `pytest` alone or adding options such as `$
-pytest -v test\_kindle\_clips.py` is currently giving error messages.
+To run tests install the 'pytest' library (I use a particular venv for this) and
+use `$ pytest test/~_kindle/_clips.py`. Using `pytest` alone or adding options
+such as `$ pytest -v test/_kindle/_clips.py` is currently giving error messages.
