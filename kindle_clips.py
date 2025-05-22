@@ -358,7 +358,7 @@ parser = argparse.ArgumentParser(
     prog='kindle-clips',
     description='''Convert Kindle highlights into text, org-mode or
     JSON format.''',
-    epilog='More info at https://github.com/leonardosoteldo/kindle-clips')
+    epilog='More info at https://github.com/golfeado/kindle-clips')
 
 parser.add_argument('file', type=str,
                     help='File that contains the Kindle clips.')
